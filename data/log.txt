@@ -1,2 +1,1 @@
-C:.idea\checkstyleidea-libs\readme.txt
-C:data\log.txt
+C:data\example.sql
